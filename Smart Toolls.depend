@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1520079928 source:c:\users\nbasn\desktop\new folder\smart toolls\main.c
+	"header.h"
+	"library.h"
+
+1520079936 c:\users\nbasn\desktop\new folder\smart toolls\header.h
+
+1520079938 c:\users\nbasn\desktop\new folder\smart toolls\library.h
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<unistd.h>
+
+1520079935 source:c:\users\nbasn\desktop\new folder\smart toolls\other.c
+	"header.h"
+	"library.h"
+
+1520079931 source:c:\users\nbasn\desktop\new folder\smart toolls\qui.c
+	"header.h"
+	"library.h"
+
